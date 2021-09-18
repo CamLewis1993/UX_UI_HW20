@@ -44,6 +44,12 @@ header nav {
     padding: 0px 5px;
   }
 
+.my-section-header {
+      font-family: Brygada1918 !important;
+      font-size:large !important;
+  }
+
+
   footer {
     margin-top: 2%;
     background-color: #F8E4D7;
